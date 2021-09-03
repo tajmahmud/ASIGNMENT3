@@ -1,0 +1,65 @@
+.body{
+
+    margin:0px;
+    padding: 0px;
+}
+.ul1{
+    padding: 0px;
+    margin: 0px;
+background-color:#A8D6FF ;
+}
+.ul1 p{
+    text-align: center;
+    float: left;
+    padding: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    display: block;
+    font-size: 40px;
+     
+}
+.header{
+    
+}
+ .ul{
+     
+     list-style: none;
+     padding: 0px;
+    margin: 0px;
+    background-color: #A8D6FF;
+    overflow: hidden;
+ }
+ .ul li{
+     float: right;
+     background-color:#A8D6FF;
+     padding-bottom: 20px;
+ }
+ .ul li a{
+     border: 2px solid greenyellow;
+     font-family: 'Azeret Mono', monospace;
+     text-decoration: none;
+     padding: 20px;
+     margin: 5px;
+     display: block;
+     text-align: center;
+     
+ }
+ .ul li a:hover{
+     background-color: yellow;
+     
+  
+     
+ }
+ .marque{
+     background-color: yellow;
+     display: block;
+     padding: 15px;
+     font-size: 30px;
+
+
+ }
+
+ .marque:hover{
+     background:greenyellow;
+ }
+ End header section
